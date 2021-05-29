@@ -217,9 +217,11 @@ nuestros nodos workers
 
 ## Flujo de la Aplicación
 
+Flujo Bajo Nivel
 
 ![Flujo Bajo Nivel](./images/g1.png)
 
+Flujo Alto Nivel
 
 ![Flujo Alto Nivel](./images/g2.png)
 
